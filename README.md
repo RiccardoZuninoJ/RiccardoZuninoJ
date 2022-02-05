@@ -1,7 +1,5 @@
 # Hello, I'm Riccardo! 
 **Music and tech enthusiast**
-
-![Chifuyu](https://pbs.twimg.com/media/E7N4Y_JWQAQs2go.jpg)
  
  My public repos:
  [**TxtEditor - A text editor built in ElectronJS**](https://github.com/RiccardoZuninoJ/TXTditor)
