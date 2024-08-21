@@ -2,15 +2,12 @@
 **Music and tech enthusiast**
  
  Working and experienced with:
-  - React
-  - React Native
+  - React, especially with Tailwind
   - NextJS
   - NodeJS
   - ...and many other **JavaScript** things!
 
- My public repos:
- [**TxtEditor - A text editor built in ElectronJS**](https://github.com/RiccardoZuninoJ/TXTditor)
 
 Need to contact me? 
-**riccardozunino@icloud.com** or **contact@riccardozunino.tech**
+**riccardozunino@icloud.com **
 
